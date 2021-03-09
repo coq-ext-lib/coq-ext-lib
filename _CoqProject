@@ -18,6 +18,7 @@ theories/Structures/EqDep.v
 theories/Structures/Foldable.v
 theories/Structures/FunctorLaws.v
 theories/Structures/Functor.v
+theories/Structures/IXMonad.v
 theories/Structures/Maps.v
 theories/Structures/MonadCont.v
 theories/Structures/MonadExc.v
@@ -119,6 +120,7 @@ theories/Data/Monads/FuelMonadLaws.v
 theories/Data/Monads/FuelMonad.v
 theories/Data/Monads/IdentityMonadLaws.v
 theories/Data/Monads/IdentityMonad.v
+theories/Data/Monads/IStateMonad.v
 theories/Data/Monads/ListMonad.v
 theories/Data/Monads/OptionMonadLaws.v
 theories/Data/Monads/OptionMonad.v
